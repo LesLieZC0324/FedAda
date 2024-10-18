@@ -1,4 +1,4 @@
-# FedAda
+# Communication-Efficient Federated Learning with Adaptive Aggregation for Heterogeneous Client-Edge-Cloud Network
 
 Client-edge-cloud Federated Learning (CEC-FL) is emerging as an increasingly popular FL paradigm, alleviating the performance limitations of conventional cloud-centric Federated Learning (FL) by incorporating edge computing. 
 Improving model quality and training efficiency is an important research topic in CEC-FL. 
